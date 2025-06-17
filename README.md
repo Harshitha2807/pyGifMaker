@@ -18,8 +18,8 @@ A lightweight Python tool that generates animated GIFs from a series of images u
 project-folder/
 ├── team-pic1.png
 ├── team-pic2.png
-├── your_script.py
-├── output.gif
+├── create_gif.py
+├── team.gif
 └── README.md
 
 
